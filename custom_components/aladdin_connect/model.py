@@ -1,4 +1,4 @@
-"""Models for Aladdin Connect Legacy cover platform."""
+"""Models for Aladdin Connect Fix cover platform."""
 
 from __future__ import annotations
 

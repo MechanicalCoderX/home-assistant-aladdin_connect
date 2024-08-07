@@ -1,7 +1,7 @@
 {
   "domain": "aladdin_connect",
   "name": "Aladdin Connect",
-  "codeowners": ["@swcloudgenie"],
+  "codeowners": ["@77degrees"],
   "config_flow": true,
   "dependencies": ["application_credentials"],
   "documentation": "https://www.home-assistant.io/integrations/aladdin_connect",

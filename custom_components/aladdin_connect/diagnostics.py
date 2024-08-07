@@ -1,4 +1,4 @@
-"""Diagnostics support for Aladdin Connect Legacy."""
+"""Diagnostics support for Aladdin Connect Fix."""
 
 from __future__ import annotations
 

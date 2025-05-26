@@ -2,6 +2,9 @@
 
 from __future__ import annotations
 
+# Pre-load diagnostics so HA never does a blocking import_module() in the event loop
+from . import diagnostics
+
 from genie_partner_sdk.client import AladdinConnectClient
 
 from homeassistant.config_entries import ConfigEntry

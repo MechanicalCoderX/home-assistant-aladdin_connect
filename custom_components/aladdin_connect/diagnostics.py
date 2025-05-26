@@ -8,7 +8,7 @@ from homeassistant import config_entries
 from homeassistant.components.diagnostics import async_redact_data
 from homeassistant.core import HomeAssistant
 
-from .api import AladdinConnect
+from genie_partner_sdk.client import AladdinConnectClient as AladdinConnect
 from .const import DOMAIN
 
 TO_REDACT = {"serial_number", "device_id"}

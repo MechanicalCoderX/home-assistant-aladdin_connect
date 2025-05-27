@@ -1,5 +1,5 @@
 {
-    "name": "Aladdin Connect Fix",
+    "name": "Aladdin Connect Fix v2",
     "hide_default_branch": true,
     "homeassistant": "2024.4.3",
     "render_readme": true

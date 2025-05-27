@@ -5,7 +5,7 @@
 ### HACS Installation
 1. Go to HACS -> Integrations.
 2. Click the three dots on the top right and select "Custom Repositories".
-3. Enter `https://github.com/77degrees/home-assistant-aladdin_connect.git` as the repository URL, select the category "Integration", and click "Add".
+3. Enter `https://github.com/MechanicalCoderX/home-assistant-aladdin_connect.git` as the repository URL, select the category "Integration", and click "Add".
 4. A new custom integration (Aladdin Connect) will show up for installation - install it.
 5. Restart Home Assistant.
 
